@@ -1,0 +1,6 @@
+fastapi
+beautifulsoup4
+requests
+pandas 
+uvicorn
+mangum
